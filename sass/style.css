@@ -32,6 +32,18 @@ body div form p {
   color: white;
   display: none;
 }
+body div form input {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  align-self: start;
+}
+body div form #divVIP p {
+  text-align: left;
+  color: white;
+  display: block;
+  font-size: 20px;
+}
 body div h3 {
   text-align: center;
   color: white;
@@ -72,4 +84,12 @@ body div div ul li {
 
 .visible {
   display: block;
+}
+
+.mi-titulo {
+  color: black;
+}
+
+.mi-texto {
+  color: black;
 }/*# sourceMappingURL=style.css.map */
